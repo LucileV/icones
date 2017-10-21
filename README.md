@@ -1,6 +1,8 @@
 # Créer des îcones facilement avec iconmoon
 
 [icomoon.io](icomoon.io)
+
+![icomoon](https://i1.wp.com/www.tidev.io/wp-content/uploads/2014/03/icomoon-featured.jpg?fit=720%2C340)
  * Il y a *5500 icones gratuites* pour animer vos sites.
  * Mais surtout créez vos propres icones vectorielles: Il est très facile d’en changer la taille et la couleur en CSS car cela revient à charger une font. (Exemple : logo Be-code). Les zones « blanches » du logo doivent être sur fond transparent.
  Comme à votre habitude, pour changer la taille, utiliser : font-size et pour changer la couleur de fond : background-color.
@@ -20,6 +22,7 @@ Acticle sur [alsacreations.com](https://www.alsacreations.com/tuto/lire/1547-pol
 
 ---------------------------------------------------------------------------------
 ## Librairies d'îcones vectorielles
+![font-awesome](https://www.vectorlogo.zone/logos/font-awesome/font-awesome-card.png)
 Vous trouverez facilement différents packs d’icônes comme [Font Awesome](http://fontawesome.io/) mais également en créant votre propre pack en piochant dans d’autres librairies sur [Fontello](http://fontello.com/). Dans ces deux cas il vous suffira de récupérer les polices créées et copier/coller la classe de l’icône que vous souhaitez utiliser.
 
 
@@ -28,6 +31,7 @@ Vous trouverez facilement différents packs d’icônes comme [Font Awesome](htt
 
 ---------------------------------------------------------------------------------
 # Utiliser une font personnalisée
+![Dafont](https://www.dafont.com/img/dafont.png)
 Nous ne sommes plus limités aux polices disponilbes sur les ordinateurs. Nous pouvons choisir une autre typographie dans la mesure ou elle est libre de droits ou achetée.
 
 Vous trouverez un tas de fonts et d'inspiration ici:
