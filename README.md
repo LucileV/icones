@@ -27,7 +27,32 @@ Vous trouverez facilement différents packs d’icônes comme [Font Awesome](htt
 
 
 ---------------------------------------------------------------------------------
-# Utiliser la font personnalisé
-Nous ne sommes plus limité aux polices disponilbes sur les ordinateurs. Nous pouvons choisir une autre typographie dans la mesure ou elle est libre de droits ou achetée.
+# Utiliser une font personnalisée
+Nous ne sommes plus limités aux polices disponilbes sur les ordinateurs. Nous pouvons choisir une autre typographie dans la mesure ou elle est libre de droits ou achetée.
 
+Vous trouverez un tas de fonts et d'inspiration ici:
+[https://www.dafont.com/fr/](https://www.dafont.com/fr/)
+
+
+Importer la font choisie dans le "GENERATOR"
 [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
+Puis télécharger le kit généré et le coller dans le dossier "font" de votre site.
+Ajouter le link jusqu'à cette nouvelle font et modifier le CSS en ajoutant en haut :
+
+#### Exemple: 
+     > @font-face {
+     >       font-family: 'enchanting_celebrations';
+     >       src: url('fonts/enchanting_celebrations-webfont.woff2') format('woff2'),
+     >            url('fonts/enchanting_celebrations-webfont.woff') format('woff');
+     >       font-weight: normal;
+     >       font-style: normal;
+     >
+     >    }
+
+Ensuite ajouter la font-family à la balise que vous souhaitez modifier :
+#### Exemple:      
+     >  H1 {
+     >       font-family: 'enchanting_celebrations';
+     >      }
+
+
