@@ -32,7 +32,7 @@ Vous trouverez facilement différents packs d’icônes comme [Font Awesome](htt
 ---------------------------------------------------------------------------------
 # Utiliser une font personnalisée
 ![Dafont](https://www.dafont.com/img/dafont.png)
-Nous ne sommes plus limités aux polices disponilbes sur les ordinateurs. Nous pouvons choisir une autre typographie dans la mesure ou elle est libre de droits ou achetée.
+Nous ne sommes plus limités aux polices disponibles sur les ordinateurs. Nous pouvons choisir une autre typographie dans la mesure ou elle est libre de droits ou achetée.
 
 Vous trouverez un tas de fonts et d'inspiration ici:
 [https://www.dafont.com/fr/](https://www.dafont.com/fr/)
@@ -40,7 +40,7 @@ Vous trouverez un tas de fonts et d'inspiration ici:
 
 Importer la font choisie dans le *"GENERATOR"*
 [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
-Puis télécharger le kit généré et le coller dans le dossier "font" de votre site.
+Puis télécharger le kit généré et coller-le dans le dossier "font" de votre site.
 Ajouter le link jusqu'à cette nouvelle font et modifier le CSS en ajoutant en haut :
 
 #### Exemple: 
@@ -60,3 +60,4 @@ Ensuite ajouter la *font-family* à la balise que vous souhaitez modifier :
      >      }
 
 
+Have fun!
