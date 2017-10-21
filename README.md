@@ -1,7 +1,7 @@
 # Créer des îcones facilement avec iconmoon
 
 [icomoon.io](icomoon.io)
- * Il y a 5500 icones gratuites pour animer vos sites.
+ * Il y a *5500 icones gratuites* pour animer vos sites.
  * Mais surtout créez vos propres icones vectorielles: Il est très facile d’en changer la taille et la couleur en CSS car cela revient à charger une font. (Exemple : logo Be-code). Les zones « blanches » du logo doivent être sur fond transparent.
  Comme à votre habitude, pour changer la taille, utiliser : font-size et pour changer la couleur de fond : background-color.
 
@@ -34,7 +34,7 @@ Vous trouverez un tas de fonts et d'inspiration ici:
 [https://www.dafont.com/fr/](https://www.dafont.com/fr/)
 
 
-Importer la font choisie dans le "GENERATOR"
+Importer la font choisie dans le *"GENERATOR"*
 [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
 Puis télécharger le kit généré et le coller dans le dossier "font" de votre site.
 Ajouter le link jusqu'à cette nouvelle font et modifier le CSS en ajoutant en haut :
@@ -49,7 +49,7 @@ Ajouter le link jusqu'à cette nouvelle font et modifier le CSS en ajoutant en h
      >
      >    }
 
-Ensuite ajouter la font-family à la balise que vous souhaitez modifier :
+Ensuite ajouter la *font-family* à la balise que vous souhaitez modifier :
 #### Exemple:      
      >  H1 {
      >       font-family: 'enchanting_celebrations';
