@@ -14,12 +14,16 @@ On télécharge le pack généré avec la nouvelle icone sur son site comme une 
 
 Ou on utilise le lien au CSS en ligne, type : link rel="stylesheet" href="https://i.icomoon.io/public/temp/5367053304/UntitledProject/style.css
 
-
+### Exemple de balise Iconoom: < span class="icon-ico_Becode icon10 CornflowerBlue iconBlanche >
 
 Acticle sur [alsacreations.com](https://www.alsacreations.com/tuto/lire/1547-police-font-icone-vectorielle-webdesign.html)
 
 ---------------------------------------------------------------------------------
-
+## Librairies d'îcones vectorielles
 Vous trouverez facilement différents packs d’icônes comme [Font Awesome](http://fontawesome.io/) mais également en créant votre propre pack en piochant dans d’autres librairies sur [Fontello](http://fontello.com/). Dans ces deux cas il vous suffira de récupérer les polices créées et copier/coller la classe de l’icône que vous souhaitez utiliser.
 
-### Exemple : span class="icon-ico_Becode icon10 CornflowerBlue iconBlanche>
+
+### Exemple de balise FontAwsome : < i class="fa fa-camera-retro fa-5x" >
+
+
+---------------------------------------------------------------------------------
