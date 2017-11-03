@@ -4,6 +4,8 @@
 
 [icomoon.io](icomoon.io)
 
+
+
 ![icomoon](https://i1.wp.com/www.tidev.io/wp-content/uploads/2014/03/icomoon-featured.jpg?fit=720%2C340)
  * Il y a *5500 icones gratuites* pour animer vos sites.
  * Mais surtout créez vos propres icones vectorielles: Il est très facile d’en changer la taille et la couleur en CSS car cela revient à charger une font. (Exemple : logo Be-code). Les zones « blanches » du logo doivent être sur fond transparent.
@@ -37,7 +39,8 @@ Vous trouverez facilement différents packs d’icônes comme [Font Awesome](htt
 Nous ne sommes plus limités aux polices disponibles sur les ordinateurs. Nous pouvons choisir une autre typographie dans la mesure ou elle est libre de droits ou achetée.
 
 Vous trouverez un tas de fonts et d'inspiration ici:
-[https://www.dafont.com/fr/](https://www.dafont.com/fr/)
+[https://www.dafont.com/fr/](https://www.dafont.com/fr/) (attention aux droits)
+[Google font](https://fonts.google.com/) (gratuit)
 
 
 Importer la font choisie dans le *"GENERATOR"*
